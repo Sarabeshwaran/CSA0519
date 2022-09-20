@@ -23,6 +23,8 @@ Experiment 2
 
 ![question 9](https://user-images.githubusercontent.com/113020922/191210027-578c907e-75f8-4f7f-b3df-cace917ca988.JPG)
 
+![question 9](https://user-images.githubusercontent.com/113020922/191210027-578c907e-75f8-4f7f-b3df-cace917ca988.JPG)
+
 ![question 10](https://user-images.githubusercontent.com/113020922/191210813-2f7df998-be48-4073-8f3a-b48fbf813c5f.JPG)
 
 
