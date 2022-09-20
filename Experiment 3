@@ -1,0 +1,1 @@
+CREATE TABLE department(DeptNo varchar(4),DeptName varchar(15),Depthead varchar(4));
