@@ -69,6 +69,9 @@ Experiment 6
 
 [Experiment 6 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%206)
 
+![Experiment 6a](https://user-images.githubusercontent.com/113020922/191322289-c8afa73e-0c45-4e87-925b-093e263b1379.JPG)
+
+![Experiment 6b](https://user-images.githubusercontent.com/113020922/191322331-15f09cc3-2412-48f3-b873-0d5b408166c1.JPG)
 
 
 Experiment 7 
