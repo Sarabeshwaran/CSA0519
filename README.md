@@ -45,13 +45,14 @@ Experiment 4
 
 ![Experiment 4b](https://user-images.githubusercontent.com/113020922/191288739-89547760-2057-4972-afa1-267d380672fd.JPG)
 
+![Experiment 4c](https://user-images.githubusercontent.com/113020922/191292750-1ede2b91-adc2-4834-bddf-374be369c0e7.JPG)
 
 
 Experiment 5 
 
 [Experiment 5 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%205)
 
-![question 5](https://user-images.githubusercontent.com/113020922/191172163-02c2b789-597c-49e4-b662-358bd86a167b.JPG)
+
 
 Experiment 6 
 
