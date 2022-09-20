@@ -1,0 +1,2 @@
+alter table sse.faculty add primary key(facno);
+alter table sse.faculty add check(gender='M'or'F');
