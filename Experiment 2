@@ -1,75 +1,89 @@
-mysql> alter table student add primary key(city);
-Query OK, 0 rows affected (0.20 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-mysql> desc student;
-+----------+-------------+------+-----+---------+-------+
-| Field    | Type        | Null | Key | Default | Extra |
-+----------+-------------+------+-----+---------+-------+
-| RegNo    | int(3)      | YES  |     | NULL    |       |
-| Name     | varchar(15) | YES  |     | NULL    |       |
-| Gender   | char(1)     | YES  |     | NULL    |       |
-| DOB      | int(10)     | YES  |     | NULL    |       |
-| MobileNo | int(10)     | YES  |     | NULL    |       |
-| City     | char(10)    | NO   | PRI |         |       |
-+----------+-------------+------+-----+---------+-------+
-6 rows in set (0.01 sec)
-
-mysql> use sse;
-Database changed
-mysql> alter table sse.faculty add primary key(facno);
-Query OK, 0 rows affected (0.16 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-mysql> alter table sse.faculty add check(gender='M'or'F');
-Query OK, 0 rows affected (0.11 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-mysql> desc sse.faculty;
-+----------+-------------+------+-----+---------+-------+
-| Field    | Type        | Null | Key | Default | Extra |
-+----------+-------------+------+-----+---------+-------+
-| facNo    | varchar(3)  | NO   | PRI |         |       |
-| facName  | char(15)    | YES  |     | NULL    |       |
-| Gender   | char(1)     | YES  |     | NULL    |       |
-| DOB      | int(10)     | YES  |     | NULL    |       |
-| DOJ      | int(10)     | YES  |     | NULL    |       |
-| mobileNo | int(10)     | YES  |     | NULL    |       |
-| deptNo   | varchar(10) | YES  |     | NULL    |       |
-+----------+-------------+------+-----+---------+-------+
-7 rows in set (0.00 sec)
-
-mysql> alter table sse.department add primary key(deptno);
-Query OK, 0 rows affected (0.21 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-mysql> desc department;
-+----------+-------------+------+-----+---------+-------+
-| Field    | Type        | Null | Key | Default | Extra |
-+----------+-------------+------+-----+---------+-------+
-| deptNo   | varchar(10) | NO   | PRI |         |       |
-| deptName | char(15)    | YES  |     | NULL    |       |
-| deptHead | varchar(10) | YES  |     | NULL    |       |
-+----------+-------------+------+-----+---------+-------+
-3 rows in set (0.01 sec)
-
-mysql> alter table sse.course add primary key(courseno);
-Query OK, 0 rows affected (0.17 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-mysql> alter table sse.course add check(semno>=1&&semno<=6);
+mysql> alter table w.student add primary key(reg_no);
 Query OK, 0 rows affected (0.07 sec)
 Records: 0  Duplicates: 0  Warnings: 0
+Query OK, 0 rows affected (0.03 sec)
+Records: 0  Duplicates: 0  Warnings: 0
 
-mysql> desc sse.course;
-+------------+-------------+------+-----+---------+-------+
-| Field      | Type        | Null | Key | Default | Extra |
-+------------+-------------+------+-----+---------+-------+
-| courseNo   | varchar(3)  | NO   | PRI |         |       |
-| coursedesc | varchar(15) | YES  |     | NULL    |       |
-| courseType | char(1)     | YES  |     | NULL    |       |
-| semNo      | char(10)    | YES  |     | NULL    |       |
-| hallNo     | varchar(10) | YES  |     | NULL    |       |
-| facNo      | varchar(10) | YES  |     | NULL    |       |
-+------------+-------------+------+-----+---------+-------+
-6 rows in set (0.01 sec)
+mysql> desc w.faculty;
++--------------+-------------+------+-----+---------+-------+
+| Field        | Type        | Null | Key | Default | Extra |
++--------------+-------------+------+-----+---------+-------+
+| fac_no       | int         | YES  |     | NULL    |       |
+| fac_name     | varchar(15) | YES  |     | NULL    |       |
+| gender       | varchar(1)  | YES  |     | NULL    |       |
+| dob          | date        | YES  |     | NULL    |       |
+| date_of_join | date        | YES  |     | NULL    |       |
+| mobile_no    | int         | YES  |     | NULL    |       |
+| dept_no      | int         | YES  |     | NULL    |       |
++--------------+-------------+------+-----+---------+-------+
+7 rows in set (0.00 sec)
+
+mysql> alter table w.faculty add primary key(fac_no);
+Query OK, 0 rows affected (0.03 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> alter table w.faculty add constraint gender check(gender in ("m","f"));
+Query OK, 0 rows affected (0.05 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+
+
+mysql> alter table w.depart add primary key(dept_no);
+Query OK, 0 rows affected (0.05 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+
+
+mysql> alter table w.course add primary key(course_no);
+Query OK, 0 rows affected (0.03 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> desc w.student;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| reg_no    | int         | NO   | PRI | NULL    |       |
+| name      | varchar(15) | YES  |     | NULL    |       |
+| gender    | varchar(1)  | YES  |     | NULL    |       |
+| dob       | date        | YES  |     | NULL    |       |
+| mobile_no | int         | NO   |     | NULL    |       |
+| city      | varchar(15) | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+6 rows in set (0.00 sec)
+
+mysql> desc w.faculty;
++--------------+-------------+------+-----+---------+-------+
+| Field        | Type        | Null | Key | Default | Extra |
++--------------+-------------+------+-----+---------+-------+
+| fac_no       | int         | NO   | PRI | NULL    |       |
+| fac_name     | varchar(15) | YES  |     | NULL    |       |
+| gender       | varchar(1)  | YES  |     | NULL    |       |
+| dob          | date        | YES  |     | NULL    |       |
+| date_of_join | date        | YES  |     | NULL    |       |
+| mobile_no    | int         | YES  |     | NULL    |       |
+| dept_no      | int         | YES  |     | NULL    |       |
++--------------+-------------+------+-----+---------+-------+
+7 rows in set (0.00 sec)
+
+mysql> desc w.depart;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| dept_no   | varchar(4)  | NO   | PRI | NULL    |       |
+| dept_name | varchar(15) | YES  |     | NULL    |       |
+| dept_head | varchar(4)  | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+3 rows in set (0.00 sec)
+
+mysql> desc w.course;
++--------------+-------------+------+-----+---------+-------+
+| Field        | Type        | Null | Key | Default | Extra |
++--------------+-------------+------+-----+---------+-------+
+| course_no    | int         | NO   | PRI | NULL    |       |
+| course_descr | varchar(14) | YES  |     | NULL    |       |
+| course_type  | varchar(1)  | YES  |     | NULL    |       |
+| sem_no       | int         | YES  |     | NULL    |       |
+| hall_no      | int         | YES  |     | NULL    |       |
+| fac_no       | int         | YES  |     | NULL    |       |
++--------------+-------------+------+-----+---------+-------+
+6 rows in set (0.00 sec)
