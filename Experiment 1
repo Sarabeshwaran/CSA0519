@@ -1,1 +1,5 @@
 CREATE TABLE student(RegNo int(3), Name varchar(15), Gender char(1), DOB int(10), MobileNo int(10), City char(10));
+CREATE TABLE faculty(FacNo varchar(4),FacName char(15), Gender char(1), DOB int(10),DOJ int(10),MobileNo int(10));
+CREATE TABLE department(DeptNo varchar(4),DeptName varchar(15),Depthead varchar(4));
+CREATE TABLE course(courseNo varchar(3),coursedesc varchar(14), coursetype char(1), Semno char(1),Hallno varchar(4),Facno varchar(4));
+ALTER TABLE faculty ADD Deptno varchar(4);
