@@ -32,6 +32,9 @@ Experiment 3
 
 [Experiment 3 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%203)
 
+![Experiment 3](https://user-images.githubusercontent.com/113020922/191221215-5767866f-230e-4b3c-98ba-858bb9019732.JPG)
+
+
 
 
 Experiment 4 
