@@ -1,0 +1,1 @@
+CREATE TABLE faculty(FacNo varchar(4),FacName char(15), Gender char(1), DOB int(10),DOJ int(10),MobileNo int(10));
