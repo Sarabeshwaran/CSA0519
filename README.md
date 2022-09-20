@@ -41,6 +41,10 @@ Experiment 4
 
 [Experiment 4 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%204)
 
+![Experiment 4a](https://user-images.githubusercontent.com/113020922/191288614-61fbd1b4-6fac-497f-8f85-28938141946c.JPG)
+
+![Experiment 4b](https://user-images.githubusercontent.com/113020922/191288739-89547760-2057-4972-afa1-267d380672fd.JPG)
+
 
 
 Experiment 5 
