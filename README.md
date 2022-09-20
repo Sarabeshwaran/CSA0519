@@ -78,6 +78,7 @@ Experiment 7
 
 [Experiment 7 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%207)
 
+![Experiment 7](https://user-images.githubusercontent.com/113020922/191322915-3e8c3616-57b6-48cb-9112-b21a82d2e604.JPG)
 
 
 Experiment 9
