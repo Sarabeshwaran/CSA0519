@@ -52,6 +52,17 @@ Experiment 5
 
 [Experiment 5 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%205)
 
+![image](https://user-images.githubusercontent.com/113020922/191321058-a167eab8-5777-4b6c-bfc1-3f8956740086.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191321131-1af9ce19-8f95-4631-9f13-ce905dfcd5a2.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191321195-516b899d-425c-4f19-8ad1-25b0aeaf6849.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191321254-7c3bc486-58f5-40ab-b0d9-cb1d12282a6e.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191321366-1dd80cb3-10ea-4bf6-b2db-29f57f41a807.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191321522-7252cef6-ab8d-4596-b285-41dc83f5f3c8.png)
 
 
 Experiment 6 
