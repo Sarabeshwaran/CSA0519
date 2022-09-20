@@ -16,3 +16,6 @@ Experiment 5 https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%205
 
 Experiment 6 https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%206
 ![question 6](https://user-images.githubusercontent.com/113020922/191196950-6fac4831-80b6-4782-989d-39425bdbea2c.JPG)
+
+Experiment 7 https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%207
+![question 7](https://user-images.githubusercontent.com/113020922/191197567-9651021a-deb4-4973-9a5b-bd03a8790299.JPG)
