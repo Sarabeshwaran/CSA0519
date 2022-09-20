@@ -1,0 +1,1 @@
+CREATE TABLE course(courseNo varchar(3),coursedesc varchar(14), coursetype char(1), Semno char(1),Hallno varchar(4),Facno varchar(4));
