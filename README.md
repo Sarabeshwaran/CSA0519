@@ -40,3 +40,9 @@ Experiment 7
 [Experiment 7 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%207)
 
 ![question 7](https://user-images.githubusercontent.com/113020922/191197567-9651021a-deb4-4973-9a5b-bd03a8790299.JPG)
+
+Experiment 9
+
+[Experiment 9 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%209)
+
+![question 9](https://user-images.githubusercontent.com/113020922/191210027-578c907e-75f8-4f7f-b3df-cace917ca988.JPG)
