@@ -1,0 +1,1 @@
+ALTER TABLE faculty ADD Deptno varchar(4);
