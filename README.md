@@ -95,9 +95,10 @@ Experiment 9
 
 [Experiment 9 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%209)
 
-![question 9](https://user-images.githubusercontent.com/113020922/191210027-578c907e-75f8-4f7f-b3df-cace917ca988.JPG)
+[Experiment 9](https://user-images.githubusercontent.com/113020922/191446108-5be37c01-f737-4e71-bfeb-1cb2783a5e6b.JPG)
 
-Experiment 10
+Experiment 10!
+
 
 [Experiment 10 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%2010)
 
