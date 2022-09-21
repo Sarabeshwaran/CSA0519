@@ -101,4 +101,7 @@ Experiment 10
 
 [Experiment 10 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%2010)
 
+![Experiment 10](https://user-images.githubusercontent.com/113020922/191430474-d7fe3a1a-b2d5-4b0b-b8fc-65c8d827b140.JPG)
+
+
 
