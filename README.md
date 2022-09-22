@@ -144,4 +144,26 @@ Experiment 15
 
 ![Experiment 15](https://user-images.githubusercontent.com/113020922/191560742-7174745e-6bb1-4d55-b931-9fd72ded88a3.JPG)
 
+Experiment 16
+
+[Experiment 16 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%2016)
+
+![image](https://user-images.githubusercontent.com/113020922/191805581-91335ea6-4ce1-4b65-adbd-59644a22f1f5.png)
+
+Experiment 17
+
+[Experiment 17 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%2017)
+
+![image](https://user-images.githubusercontent.com/113020922/191806134-0425d223-dcfa-4a11-b82d-a996c63d4c88.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191806174-d877d104-6020-4ebf-82cb-bb599ad49c7a.png)
+
+Experiment 18
+
+[Experiment 18 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%2018)
+
+![image](https://user-images.githubusercontent.com/113020922/191806382-b9f7e724-7c5b-4189-aae1-39028c6ee88f.png)
+
+
+
 
