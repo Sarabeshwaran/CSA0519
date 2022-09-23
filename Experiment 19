@@ -1,4 +1,4 @@
-reate table employees(fname varchar(10),mnit varchar(10),lname varchar(10),ssn int(20), bdate date, address varchar(20),sex varchar(1),salary int(10),superssn int(10),dno int(2));
+create table employees(fname varchar(10),mnit varchar(10),lname varchar(10),ssn int(20), bdate date, address varchar(20),sex varchar(1),salary int(10),superssn int(10),dno int(2));
 Query OK, 0 rows affected, 4 warnings (0.06 sec)
 
 mysql> insert into employees values("john","b","smith",null,"1955-01-09",null,"M",30000,null,5);
