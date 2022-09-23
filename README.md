@@ -188,6 +188,38 @@ Experiment 22
 
 ![image](https://user-images.githubusercontent.com/113020922/191883683-4324111e-dd6e-4b44-86a1-2696078a749a.png)
 
+Experiment 23
+
+[Experiment 23 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%2023)
+
+![image](https://user-images.githubusercontent.com/113020922/191899146-7cfe17cd-d33c-4b27-8ce8-243d49951254.png)
+
+Experiment 24
+
+[Experiment 24 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%2024)
+
+![image](https://user-images.githubusercontent.com/113020922/191899203-b6a3003a-605f-4e25-98e0-dc4ebb5877cd.png)
+
+Experiment 25
+
+[Experiment 25 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%2025)
+
+![image](https://user-images.githubusercontent.com/113020922/191899282-25010d51-2e93-4b2f-ab06-d03fd6bfdddf.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191899304-4b2482e3-1e60-4196-aab7-44fa32a0fb81.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191899331-d0c2e2ec-2709-4b2e-a1e9-f453688a7085.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191899339-b70aae91-e6c4-4e21-a1d5-b09b4932ae1e.png)
+
+![image](https://user-images.githubusercontent.com/113020922/191899361-1b4f71cb-c85c-41da-96cb-267f9ba17235.png)
+
+
+
+
+
+
+
 
 
 
