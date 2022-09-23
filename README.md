@@ -164,6 +164,13 @@ Experiment 18
 
 ![image](https://user-images.githubusercontent.com/113020922/191806382-b9f7e724-7c5b-4189-aae1-39028c6ee88f.png)
 
+Experiment 19
+
+[Experiment 19 Query](https://github.com/Sarabeshwaran/CSA0519/blob/main/Experiment%2019)
+
+![image](https://user-images.githubusercontent.com/113020922/191882904-306bfb35-a7d6-455f-bc4b-fb6a7afeb923.png)
+
+
 
 
 
